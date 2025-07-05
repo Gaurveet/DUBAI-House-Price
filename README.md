@@ -1,7 +1,5 @@
 # 🏙️ Dubai Real Estate Intelligence Dashboard
 
-![Dashboard Banner](dubai_housing_dashboard_insights.png)
-
 ## 📌 Overview
 
 This project presents an interactive Power BI dashboard built to analyze Dubai's residential real estate market. It helps investors, real estate agents, and policymakers make informed decisions based on real-time insights and data visualizations.
@@ -38,8 +36,7 @@ The dataset includes:
   - Total Listings  
   - Average Price  
   - Avg. Size (sqft)  
-  - Max Price  
-  - Price per Sqft  
+  - Max Price   
 
 - **Visualizations**:  
   - 📍 Map: Avg. price by location  
@@ -87,23 +84,16 @@ The dataset includes:
 | `DUBAI HOUSE PRICE.pptx` | Slide summary presentation |
 | `DUBAI House Price.docx` | Project brief |
 | `dubai_housing_dashboard_insights.png` | Visual insights preview |
-| *(Optional)* `Dubai_Real_Estate_Insights_Report.pdf` | Insights report PDF |
-| *(Optional)* `dubai_dashboard.pbix` | Final Power BI file (if shared) |
+| `Dubai_Real_Estate_Insights_Report.pdf` | Insights report PDF |
+| `dubai_dashboard.pbix` | Final Power BI file (if shared) |
 
 ---
 
 ## 🛠 Tools Used
 
 - **Power BI** – Data modeling & dashboarding  
-- **Microsoft Excel** – Data cleaning (Power Query)  
-- **Python (Pandas, Seaborn)** – Exploratory analysis & visuals  
-- **Canva / PowerPoint** – Final slide export
-
----
-
-## 📜 License
-
-This project is for educational and portfolio purposes. Feel free to fork and customize it for learning.
+- **Microsoft Excel** – Data cleaning (Power Query)   
+- **Word / PDF** – Final slide export
 
 ---
 
@@ -111,10 +101,3 @@ This project is for educational and portfolio purposes. Feel free to fork and cu
 
 - Dataset inspired by real estate data structure  
 - Dashboard requirements and KPIs adapted from business intelligence best practices
-
----
-
-## 📬 Contact
-
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or email me at [youremail@example.com].
-
